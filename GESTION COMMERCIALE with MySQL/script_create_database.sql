@@ -1,3 +1,0 @@
--- Création de la base de données : `ICOMMERCE`
--- DROP DATABASE IF EXISTS `ICOMMERCE`;
-CREATE DATABASE `ICOMMERCE`;
